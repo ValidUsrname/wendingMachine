@@ -1,0 +1,5 @@
+out/
+CMakeLists.txt
+CMakePresets.json
+test.cpp
+test.exe
